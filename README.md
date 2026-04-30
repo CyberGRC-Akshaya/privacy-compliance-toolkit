@@ -64,7 +64,7 @@ privacy-compliance-toolkit/
 
 ## ✍️ Author — Appointed DPO Experience
 
-**Akshaya** | Appointed Data Protection Officer | ISO 27701 Lead Auditor | Sr. Manager, Risk & Compliance
+**Akshaya** | Appointed Data Protection Officer | ISO 27701 Lead Auditor | Manager, Risk & Compliance
 
 *As an appointed DPO across multiple regulated verticals including Big 4 clients, these templates represent real operational tools — not academic exercises. The DPDPA materials reflect active engagement with India's evolving data protection landscape.*
 
